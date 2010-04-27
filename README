@@ -1,0 +1,13 @@
+Electronic message board for the Peggy 2 LED pegboard by Evil Mad Science Laboratories
+(http://www.evilmadscientist.com/). Leave notes up to 24 characters long! ...like
+"Dinner at Store" or "Rinse Lather Repeat".
+
+Needs optional buttons installed for cursor movement and character selection.
+
+Written by Dave Parker http://daveparker42.blogspot.com/
+Some snippets of code were based on the Meggy Jr. library and Peggy2 
+"Game of Life" code by Windell Oskay (and others).
+
+Uses the Peggy2 Library version 0.3b (http://code.google.com/p/peggy/).
+Tested with a Peggy 2.1 with an ATMega168. Compiled using arduino-014 and all the
+various goodies within.
